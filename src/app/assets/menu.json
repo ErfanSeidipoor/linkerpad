@@ -1,0 +1,110 @@
+﻿[
+  {
+    "id": "4f61bad3-0a1a-445d-cf31-08d6872340eb",
+    "title": "Egg Burger with Truffle Mayo",
+    "avatar": "https://cdn.opeqe.com/image/menu/s/45.jpg",
+    "category": "Lunch & Dinner"
+  },
+  {
+    "id": "a8a3cd65-4887-4788-67e6-08d687252175",
+    "title": "T-Bone Steak & Eggs",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/3.jpg",
+    "category": "Breakfast"
+  },
+  {
+    "id": "736c756a-2a0d-471b-67e8-08d687252175",
+    "title": "Salmon Red Caviar Sushi",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/46.jpg",
+    "category": "Lunch & Dinner"
+  },
+  {
+    "id": "0182b004-63b6-4aa3-31b4-08d68730ae0f",
+    "title": "Cinnamon Roll Pancake",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/13.jpg",
+
+    "category": "Breakfast"
+  },
+  {
+    "id": "16c17fc6-1681-4d3f-31b5-08d68730ae0f",
+    "title": "Eggs Benedict",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/14.jpg",
+
+    "category": "Breakfast"
+  },
+  {
+    "id": "2c433d2f-5d42-430a-67e9-08d687252175",
+    "title": "Albacore Sashimi",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/6.jpg",
+
+    "category": "Lunch & Dinner"
+  },
+  {
+    "id": "89196ca8-d70e-4e9b-67eb-08d687252175",
+    "title": "Blueberry Pancake Breakfast",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/8.jpg",
+
+    "category": "Breakfast"
+  },
+  {
+    "id": "a1aaa6eb-78c6-4a4d-31b3-08d68730ae0f",
+    "title": "Avocado Bacon Cheeseburger",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/12.jpg",
+
+    "category": "Lunch & Dinner"
+  },
+  {
+    "id": "7129c46d-b684-4bd1-67ea-08d687252175",
+    "title": "My Hammy & Cheese Omelette",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/7.jpg",
+
+    "category": "Breakfast"
+  },
+  {
+    "id": "35e2287b-89ec-46c0-67ec-08d687252175",
+    "title": "Gordita Taco Combo",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/9.jpg",
+
+    "category": "Mexican"
+  },
+  {
+    "id": "d32e79db-c9a6-41f0-67e5-08d687252175",
+    "title": "Noodle Plate",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/2.jpg",
+
+    "category": "Lunch & Dinner"
+  },
+  {
+    "id": "1fedff8f-36be-4335-67e7-08d687252175",
+    "title": "California Chicken Salad",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/4.jpg",
+
+    "category": "Lunch & Dinner"
+  },
+  {
+    "id": "00ee0094-39ce-4d25-67ed-08d687252175",
+    "title": "Pad Thai",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/10.jpg",
+
+    "category": "Lunch & Dinner"
+  },
+  {
+    "id": "8657273f-bb10-453a-67ee-08d687252175",
+    "title": "Quarter Dark and Leg",
+
+    "avatar": "https://cdn.opeqe.com/image/menu/s/11.jpg",
+
+    "category": "Lunch & Dinner"
+  }
+]
